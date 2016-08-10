@@ -28,6 +28,8 @@ Step 4: Ensure installation of IPython and IPython Notebook
 # Install or update IPython and IPython Notebook
 conda install ipython-notebook
 
+pip install matplotlib
+
 
 ## RUN IPYTHON
 ipython notebook
